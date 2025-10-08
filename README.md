@@ -57,7 +57,7 @@ Each model is built manually using core algorithms (Logistic Regression, Decisio
 
 | Member | Role | Tasks Completed |
 |---------|------|-----------------|
-| **Member 1 – Team Leader (You)** | Lead Developer | Developed COPD & Liver models (Decision Tree), designed complete GUI, integrated all models |
+| **Member 1 – Team Leader ** | Lead Developer | Developed COPD & Liver models (Decision Tree), designed complete GUI, integrated all models |
 | **Member 2** | ML Developer | Built Heart & Stroke models (Random Forest), contributed to GUI enhancements |
 | **Member 3** | Data Scientist | Created Diabetes & Pancreatic models (Logistic Regression), handled dataset cleaning |
 | **Member 4** | Developer | Created Common Disease model (Decision Tree), assisted in testing and database setup |
